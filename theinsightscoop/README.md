@@ -1,0 +1,1 @@
+TODO: Convert [The Insight Scoop](https://www.theinsightscoop.com) into a website that uses Hugo.

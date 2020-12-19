@@ -1,0 +1,128 @@
+baseURL = "https://www.mariusurbelis.com"
+#baseURL = "/"
+title = "Marius Urbelis"
+
+theme = "hugo-coder"
+
+languageCode = "en"
+defaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsStyle = "b2"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+#disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Marius Urbelis"
+    description = "Marius Urbelis' personal website"
+    keywords = "blog,developer,personal"
+    info = "Programmer and Design Enthusiast"
+    avatarURL = "images/avatar.jpg"
+    gravatar = "mariusurbelis23@gmail.com"
+    #footerContent = "Enter a text here."
+
+    dateFormat = "January 2, 2006"
+
+    hideFooter = false
+    hideCredits = true
+    hideCopyright = false
+    since = 2017
+
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorScheme = "auto"
+
+    # Hide the toggle button, along with the associated vertical divider
+    hideColorSchemeToggle = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Enable Twemoji
+    enableTwemoji = true
+
+    # Custom CSS
+    customCSS = []
+
+    # Custom SCSS
+    customSCSS = []
+
+    # Custom JS
+    customJS = []
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/mariusurbelis/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 2
+    url = "https://twitter.com/marius_urbelis"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/mariusurbelis/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fa fa-instagram"
+    weight = 4
+    url = "https://www.instagram.com/mariusurbelis/"
+[[params.social]]
+    name = "YouTube"
+    icon = "fa fa-youtube"
+    weight = 5
+    url = "https://www.youtube.com/mariusurbelis"
+[[params.social]]
+    name = "Twitch"
+    icon = "fa fa-twitch"
+    weight = 6
+    url = "https://www.twitch.tv/mariusurbelis"
+
+
+[languages]
+    [languages.en]
+        languageName = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Projects"
+            weight = 3
+            url = "projects/"
+
+            [[languages.en.menu.main]]
+            name = "CV"
+            weight = 4
+            url = "cv-md/"
+
+            #[[languages.en.menu.main]]
+            #name = "Contact me"
+            #weight = 5
+            #url = "contact/"
