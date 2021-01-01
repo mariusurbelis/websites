@@ -9,6 +9,7 @@ authors = ["Marius Urbelis"]
 +++
 
 ## Website Rework
+
 I enjoy minimalism. Therefore, I have always wanted to have a simple website. All of the previous versions of my personal site were designed by me from the ground up and usually resembled a very primitive business card. It would include links to social medias and maybe a brief bio. Looking back they weren't the most attractive.
 
 I have never really had a blog on my own website either. Have considered using Wordpress or Ghost. However, these solutions seemed clunky and required a database. I have even started organising a very simple markdown blogging solution just so I could have markdown files rendered into blog posts.
