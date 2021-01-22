@@ -80,19 +80,24 @@ pygmentsCodeFencesGuessSyntax = true
     weight = 3
     url = "https://www.linkedin.com/in/mariusurbelis/"
 [[params.social]]
-    name = "Instagram"
-    icon = "fa fa-instagram"
-    weight = 4
-    url = "https://www.instagram.com/mariusurbelis/"
-[[params.social]]
     name = "YouTube"
     icon = "fa fa-youtube"
-    weight = 5
+    weight = 4
     url = "https://www.youtube.com/mariusurbelis"
+[[params.social]]
+    name = "Instagram"
+    icon = "fa fa-instagram"
+    weight = 5
+    url = "https://www.instagram.com/mariusurbelis/"
+[[params.social]]
+    name = "Discord"
+    icon = "fa fa-discord"
+    weight = 6
+    url = "https://www.mariusurbelis.com/discord"
 [[params.social]]
     name = "Twitch"
     icon = "fa fa-twitch"
-    weight = 6
+    weight = 7
     url = "https://www.twitch.tv/mariusurbelis"
 
 
