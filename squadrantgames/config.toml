@@ -1,0 +1,11 @@
+baseURL = ""
+languageCode = "en-us"
+theme = "SimpleIntro"
+title = "Squadrant Games"
+publishDir = "public"
+
+[params]
+    mainbg = "https://picsum.photos/1920/1080"
+    name = "Squadrant Games"
+    mainTitle = "Squirrel Forest"
+    mainText = "A game about squirrels saving the forest"
