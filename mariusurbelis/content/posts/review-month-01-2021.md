@@ -30,7 +30,7 @@ Apes together strong! Diamond hands! None of that paperhand crap. Hold it boys! 
 
 Just to throw a disclaimer out there: I am by no means a financial services expert. I'm just an ape with a typewriter expressing my thoughts on the internet.
 
-What a spectacle this Reddit vs hedge funds is. It is happening at the time of writing this. Over 120% of GameStop stock is shorted and people know it thanks to r/WallStreetBets. Elon Musk our savior is also involved in this. Quick sidenote it seems like anything he touches turns to gold (whatever publicly traded entity he tweets about the stock goes up). Back to the main topic. The masses are winning bu bankrupting the greedy hedge funds. That's the tl;dr. For more information consult actual reputable sources, read as many different (possibly inevitably biased towards one or the other) sources and make up your own mind about what's happening.
+What a spectacle this Reddit vs hedge funds is. It is happening at the time of writing this. Over 120% of GameStop stock is shorted and people know it thanks to r/WallStreetBets. Elon Musk our savior is also involved in this. Quick sidenote it seems like anything he touches turns to gold (whatever publicly traded entity he tweets about the stock goes up). Back to the main topic. The masses are winning by bankrupting the greedy hedge funds. That's the tl;dr. For more information consult actual reputable sources, read as many different (possibly inevitably biased towards one or the other) sources and make up your own mind about what's happening.
 
 I'm looking to get into more stocks as the market is currently impacted by all this craze and many stock prices are going down. Even Apple, Microsoft, Tesla to name a few.
 
