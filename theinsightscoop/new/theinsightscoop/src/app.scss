@@ -1,0 +1,13 @@
+// Define variable defaults
+// $body-bg: #191919;
+$body-bg: #fff;
+$body-color: #000;
+
+@font-face {
+    font-family: "Gotham Medium";
+    src: url("assets/fonts/GothamMedium.ttf") format("woff2");
+}
+
+// Then import Bootstrap an BootstrapVue SCSS files (order is important)
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+@import "node_modules/bootstrap-vue/src/index.scss";
