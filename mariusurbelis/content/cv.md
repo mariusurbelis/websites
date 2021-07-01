@@ -7,7 +7,7 @@ slug = "cv-md"
 
 ## Bio
 
-Currently a 4-th year Applied Computing student at the University of Dundee.
+Currently a graduate Software Engineer working at NCR Corporation.
 
 ## IT Experience
 
@@ -19,6 +19,7 @@ Currently a 4-th year Applied Computing student at the University of Dundee.
   - HTML/CSS (Bootstrap)
   - Docker (Compose)
   - SQL
+  - Jenkins
 - Operating Systems
   - Linux (mostly terminal: Ubuntu Server, Raspberry Pi OS)
   - Windows
@@ -26,6 +27,7 @@ Currently a 4-th year Applied Computing student at the University of Dundee.
 
 ## Work Experience
 
+- **NCR Corporation**: Software Engineer
 - **DLR Media**: Videographer/Live Streaming Specialist
 - **DUSA - Dundee University Students' Association**: Student Technician
 - **Rave! - North Carolina State University Students' Center**: Events Crew Technician

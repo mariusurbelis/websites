@@ -14,7 +14,14 @@
         </div>
 
         <div class="row justify-content-center align-items-center">
-            <button @click="openLink(`https://open.spotify.com/show/0JmeSuliHJ2bFIekH8wNLo`)" class="btn col-3 col-md-2 col-lg-1">
+            <button
+                @click="
+                    openLink(
+                        `https://open.spotify.com/show/0JmeSuliHJ2bFIekH8wNLo`
+                    )
+                "
+                class="btn col-3 col-md-2 col-lg-1"
+            >
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="3em"
@@ -27,20 +34,15 @@
                     />
                 </svg>
             </button>
-            <button @click="openLink(`https://www.facebook.com/tispodcast`)" class="btn col-3 col-md-2 col-lg-1">
-                <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="3em"
-                    height="3em"
-                    fill="currentColor"
-                    viewBox="0 0 24 24"
-                >
-                    <path
-                        d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z"
-                    />
-                </svg>
-            </button>
-            <button @click="openLink(`https://www.youtube.com/channel/UCtOqoGxJhxf5Z1PeSG626xA`)" class="btn col-3 col-md-2 col-lg-1">
+
+            <button
+                @click="
+                    openLink(
+                        `https://www.youtube.com/channel/UCtOqoGxJhxf5Z1PeSG626xA`
+                    )
+                "
+                class="btn col-3 col-md-2 col-lg-1"
+            >
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="3em"
@@ -50,6 +52,23 @@
                 >
                     <path
                         d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm4.441 16.892c-2.102.144-6.784.144-8.883 0-2.276-.156-2.541-1.27-2.558-4.892.017-3.629.285-4.736 2.558-4.892 2.099-.144 6.782-.144 8.883 0 2.277.156 2.541 1.27 2.559 4.892-.018 3.629-.285 4.736-2.559 4.892zm-6.441-7.234l4.917 2.338-4.917 2.346v-4.684z"
+                    />
+                </svg>
+            </button>
+
+            <button
+                @click="openLink(`https://www.facebook.com/tispodcast`)"
+                class="btn col-3 col-md-2 col-lg-1"
+            >
+                <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="3em"
+                    height="3em"
+                    fill="currentColor"
+                    viewBox="0 0 24 24"
+                >
+                    <path
+                        d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z"
                     />
                 </svg>
             </button>
