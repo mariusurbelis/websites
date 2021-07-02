@@ -3,7 +3,7 @@ title = "Projects"
 slug = "projects"
 +++
 
-## Current Projects
+## Latest Projects
 Final year university project - [YouTube Assist](https://urbelis.dev/youtube-assist/)
 
 Indie Game - [Squirrel Forest](https://store.steampowered.com/app/1266720/Squirrel_Forest/)
