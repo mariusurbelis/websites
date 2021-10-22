@@ -20,7 +20,7 @@
                     >
                 </p>
 
-                <p>The podcast is on every Friday.</p>
+                <p>The podcast is on every Friday. (currently on a break)</p>
             </div>
         </div>
     </div>
