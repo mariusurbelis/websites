@@ -7,7 +7,7 @@ slug = "cv-md"
 
 ## Bio
 
-Currently a graduate Software Engineer working at NCR Corporation.
+Currently a Software Engineer working at NCR Corporation.
 
 ## IT Experience
 
@@ -17,7 +17,9 @@ Currently a graduate Software Engineer working at NCR Corporation.
   - Java (Android)
   - Javascript (Node.js)
   - HTML/CSS (Bootstrap)
+  - Go
   - Docker (Compose)
+  - Kubernetes
   - SQL
   - Jenkins
 - Operating Systems
@@ -43,5 +45,5 @@ Currently a graduate Software Engineer working at NCR Corporation.
 
 ## Interests
 
-- University of Dundee Taekwon-Do Club Captain
-- Participation in competitive programming competitions
+- Was a University of Dundee Taekwon-Do Club Captain
+- Participation in competitive programming competitions, hackathons
