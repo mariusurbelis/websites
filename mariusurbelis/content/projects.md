@@ -39,6 +39,6 @@ My DEV URL - [urbelis.dev](https://urbelis.dev/)
 
 ## More Info
 
-Still under construction. You may look at my [CV](https://urbelis.dev/cv/) in the meantime.
+Still under construction. You may look at my [CV](https://www.mariusurbelis.com/cv/) in the meantime.
 
 Old projects page still available [here](../developer).
