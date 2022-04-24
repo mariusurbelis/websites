@@ -3,7 +3,7 @@ title = "About Me"
 slug = "about"
 +++
 
-I am a Software Engineer at NCR Corporation.
+I am a Software Engineer at Unity.
 
 [Photography](https://www.instagram.com/mariusurbelis/) and [videography](https://www.youtube.com/mariusurbelis) is something I have spent countless hours studying and practicing. I am currently working as a freelance videographer/live streaming specialist for DLR Media.
 
