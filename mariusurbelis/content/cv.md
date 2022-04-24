@@ -1,13 +1,9 @@
-+++
-title = "Marius Urbelis"
-slug = "cv-md"
-+++
-
+# Marius Urbelis
 [www.mariusurbelis.com](https://www.mariusurbelis.com/developer) | [github.com/mariusurbelis](https://github.com/mariusurbelis) | marius@urbelis.dev
 
 ## Bio
 
-Currently a Software Engineer working at NCR Corporation.
+Currently a graduate Software Engineer working at Unity
 
 ## IT Experience
 
@@ -15,20 +11,21 @@ Currently a Software Engineer working at NCR Corporation.
   - C# (Unity, Microsoft XNA)
   - C++
   - Java (Android)
-  - Javascript (Node.js)
+  - Javascript (Node.js, Vue)
   - HTML/CSS (Bootstrap)
-  - Go
-  - Docker (Compose)
-  - Kubernetes
+  - Docker
   - SQL
   - Jenkins
+  - Kubernetes
+  - Ansible
 - Operating Systems
-  - Linux (mostly terminal: Ubuntu Server, Raspberry Pi OS)
+  - Linux
   - Windows
   - Android
 
 ## Work Experience
 
+- **Unity**: Software Engineer
 - **NCR Corporation**: Software Engineer
 - **DLR Media**: Videographer/Live Streaming Specialist
 - **DUSA - Dundee University Students' Association**: Student Technician
@@ -45,5 +42,5 @@ Currently a Software Engineer working at NCR Corporation.
 
 ## Interests
 
-- Was a University of Dundee Taekwon-Do Club Captain
-- Participation in competitive programming competitions, hackathons
+- University of Dundee Taekwon-Do Club Captain
+- Participation in competitive programming competitions
