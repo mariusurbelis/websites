@@ -25,7 +25,7 @@ Currently a graduate Software Engineer working at Unity
 
 ## Work Experience
 
-- **Unity**: Software Engineer
+- **Unity Technologies**: Software Engineer
 - **NCR Corporation**: Software Engineer
 - **DLR Media**: Videographer/Live Streaming Specialist
 - **DUSA - Dundee University Students' Association**: Student Technician
