@@ -3,21 +3,22 @@
 
 ## Bio
 
-Currently a graduate Software Engineer working at Unity
+Currently a backend Software Engineer working at Unity
 
 ## IT Experience
 
 - Languages and Tools
+  - Go
   - C# (Unity, Microsoft XNA)
   - C++
   - Java (Android)
   - Javascript (Node.js, Vue)
   - HTML/CSS (Bootstrap)
   - Docker
-  - SQL
   - Jenkins
   - Kubernetes
   - Ansible
+  - SQL
 - Operating Systems
   - Linux
   - Windows
@@ -42,5 +43,6 @@ Currently a graduate Software Engineer working at Unity
 
 ## Interests
 
-- University of Dundee Taekwon-Do Club Captain
 - Participation in competitive programming competitions
+- Game jams
+- University of Dundee Taekwon-Do Club Ex-Captain
