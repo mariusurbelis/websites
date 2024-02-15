@@ -3,27 +3,28 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
-    background: url("assets/background-text.png");
-    /* color: #2c3e50; */
-    margin-top: 60px;
+    background: url("./assets/background-text.png");
+    margin-top: 2em;
 }
 
 @font-face {
     font-family: "Gotham Medium";
-    src: url("assets/fonts/GothamMedium.ttf") format("woff2");
+    src: url("./assets/Gotham-Medium.otf") format("opentype");
 }
 
 a:hover {
-    text-decoration: none;
-    background: black;
-    color: white;
+    text-decoration: underline;
+    color: black;
 }
 
 a {
     color: #2e2e2e;
+    text-decoration: none;
     background: rgba(202, 202, 202, 0.178);
-    padding: 0.3em;
-}
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;}
 
 ::-webkit-scrollbar {
     background-color: #cccccc33;

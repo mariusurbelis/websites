@@ -1,0 +1,38 @@
+#app {
+    font-family: "Gotham Medium";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* background: url("assets/background-text.png"); */
+    /* color: #2c3e50; */
+}
+
+@font-face {
+    font-family: "Gotham Medium";
+    src: url("Gotham-Medium.otf") format("opentype");
+}
+
+a:hover {
+    text-decoration: underline;
+    /* background: black; */
+    color: black;
+}
+
+a {
+    color: #2e2e2e;
+    text-decoration: none;
+    background: rgba(202, 202, 202, 0.178);
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+::-webkit-scrollbar {
+    background-color: #cccccc33;
+    width: 0.5em;
+}
+
+::-webkit-scrollbar-thumb:window-inactive,
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.452);
+}
