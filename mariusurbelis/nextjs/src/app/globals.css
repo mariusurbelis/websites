@@ -2,8 +2,33 @@
     font-family: "Gotham Medium";
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    /* background: url("assets/background-text.png"); */
-    /* color: #2c3e50; */
+    
+    background: linear-gradient(
+        -90deg,
+        rgba(0, 0, 0, 0.02) 1px,
+        transparent 1px
+    ),
+    linear-gradient(rgba(0, 0, 0, 0.02) 1px, transparent 1px),
+    linear-gradient(-90deg, rgba(0, 0, 0, 0.02) 1px, transparent 1px),
+    linear-gradient(rgba(0, 0, 0, 0.02) 1px, transparent 1px),
+    linear-gradient(
+        transparent 3px,
+        rgba(242, 242, 242, 0.02) 3px,
+        rgba(242, 242, 242, 0.02) 78px,
+        transparent 78px
+    ),
+    linear-gradient(-90deg, rgba(170, 170, 170, 0.02) 1px, transparent 1px),
+    linear-gradient(
+        -90deg,
+        transparent 3px,
+        rgba(242, 242, 242, 0.02) 3px,
+        rgba(242, 242, 242, 0.02) 78px,
+        transparent 78px
+    ),
+    linear-gradient(rgba(170, 170, 170, 0.02) 1px, transparent 1px),
+    rgba(242, 242, 242, 0.02);
+    background-size: 4px 4px, 4px 4px, 80px 80px, 80px 80px, 80px 80px,
+        80px 80px, 80px 80px, 80px 80px;
 }
 
 @font-face {
